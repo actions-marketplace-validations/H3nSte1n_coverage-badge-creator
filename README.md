@@ -1,7 +1,7 @@
 <h1>Coverage Badge Creator</h1>
 <br>
 
-![Coverage](https://img.shields.io/badge/Coverage-98%25-83A603.svg?prefix=$coverage$) [![CI](https://github.com/H3nSte1n/coverage-badge-creator/workflows/CI/badge.svg?style=flat)](https://github.com/H3nSte1n/coverage-badge-creator/actions/workflows/CI.yml) [![Build](https://github.com/H3nSte1n/coverage-badge-creator/workflows/Build/badge.svg?style=flat)](https://github.com/H3nSte1n/coverage-badge-creator/actions/workflows/Build.yml) [![Code Style](https://github.com/H3nSte1n/coverage-badge-creator/workflows/Code-Style/badge.svg?style=flat)](https://github.com/H3nSte1n/coverage-badge-creator/actions/workflows/Code-Style.yml)
+![Coverage](https://img.shields.io/badge/Coverage-98%25-83A603.svg?prefix=$coverage$) [![CI](https://github.com/H3nSte1n/coverage-badge-creator/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/H3nSte1n/coverage-badge-creator/actions/workflows/CI.yml) [![Build](https://github.com/H3nSte1n/coverage-badge-creator/actions/workflows/Build.yml/badge.svg?branch=main)](https://github.com/H3nSte1n/coverage-badge-creator/actions/workflows/Build.yml) [![Code Style](https://github.com/H3nSte1n/coverage-badge-creator/actions/workflows/Code-Style.yml/badge.svg?branch=main)](https://github.com/H3nSte1n/coverage-badge-creator/actions/workflows/Code-Style.yml)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](https://github.com/H3nSte1n/coverage-badge-creator/blob/master/LICENSE) [![Release](https://img.shields.io/github/release/H3nSte1n/coverage-badge-creator.svg?style=flat)](https://GitHub.com/H3nSte1n/coverage-badge-creator/releases/) ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat)
 <br><br>
